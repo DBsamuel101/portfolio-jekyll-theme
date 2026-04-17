@@ -2,16 +2,16 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+- {name: 'Books', url: ''}
+- {name: 'Visuals',     url: 'visuals'}
+- {name: 'Sounds',    url: 'sounds'}
+- {name: 'About',  url: 'about'}
 - {name: 'Contact',  url: 'contact'}
-
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
+- {name: 'A Vice of Dreams',   url: 'a-vice-of-dreams'}
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
