@@ -11,9 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'A Vice of Dreams',   url: 'a-vice-of-dreams'}
-- {name: 'S.E.R.A.P.H.',   url: 's.e.r.a.p.h'}
-- {name: 'Dark Sun', url: 'dark-sun'}
+- {name: 'S.E.R.A.P.H.',   url: 'proj-1'}
+- {name: 'A Vice of Dreams',   url: 'proj-2'}
+- {name: 'Dark Sun', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
 
